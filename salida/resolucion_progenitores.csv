@@ -1,0 +1,141 @@
+hijo,Label_hijo,rol,candidato,Label_candidato,anio_hijo,anio_candidato,diferencia,cronologia,conyuge_del_otro_progenitor,hermanos_que_lo_respaldan,n_hermanos,n_hijos_candidato,placeholder,puntaje,decision_sugerida,confianza,motivo_decision,fusionar_con,decision_final,decision_aplicada
+Q1010336,Burchard IV. im Hassegau,padre,Q1182189,Dedo Ier,1000,932,68,ok,False,0,0,2,False,0.5,revisar,manual,empate de evidencia (diferencia 0.5),,,revisar
+Q1010336,Burchard IV. im Hassegau,padre,Q62999,Burcardo III de Suabia,1000,915,85,dudosa,False,0,0,1,False,0.0,revisar,manual,empate de evidencia (diferencia 0.5),,,revisar
+Q116742543,John (II.) of Maidburg,padre,Q116690637,Otto of Maidburg,1400,1400,0,dudosa,False,0,0,1,False,0.0,revisar,manual,empate de evidencia (diferencia 0.0),,,revisar
+Q116742543,John (II.) of Maidburg,padre,Q116690649,Burkhard of Maidburg,1400,1300,100,dudosa,False,0,0,1,False,0.0,revisar,manual,empate de evidencia (diferencia 0.0),,,revisar
+Q1342360,Sunifredo I,padre,Q816018,Bellón I de Carcasona,810,770,40,ok,False,1,2,3,False,1.5,conservar,media,mayor puntaje (+1.5 sobre el siguiente),,,revisar
+Q1342360,Sunifredo I,padre,Q2358732,Borrell de Osona,810,800,10,dudosa,False,0,2,1,False,0.0,eliminar,media,menor evidencia que Bellón I de Carcasona,,,revisar
+Q1459919,Frederic II of Vianden,padre,Q1459860,Frederic I of Vianden,1135,1115,20,ok,True,2,3,3,False,4.83,conservar,media,mayor puntaje (+1.3 sobre el siguiente),,,revisar
+Q1459919,Frederic II of Vianden,padre,Q25896133,"Gottfried I, Count of Sponheim",1135,1115,20,ok,True,0,3,2,False,3.5,eliminar,media,menor evidencia que Frederic I of Vianden,,,revisar
+Q15615597,Svyatopolk Mstislavich,padre,Q41514,Mstislav I de Kiev,1115,1076,39,ok,True,7,11,9,False,5.5,conservar,media,mayor puntaje (+1.3 sobre el siguiente),,,revisar
+Q15615597,Svyatopolk Mstislavich,padre,Q2632610,Volodar Glebovich,1115,1090,25,ok,True,1,11,4,False,4.17,eliminar,media,menor evidencia que Mstislav I de Kiev,,,revisar
+Q16584942,Othelindis,padre,Q220799,Bernardo I de Sajonia,985,950,35,ok,False,1,2,2,False,1.5,conservar,media,mayor puntaje (+1.0 sobre el siguiente),,,revisar
+Q16584942,Othelindis,padre,Q2561491,Bernardo de la Marca del Norte,985,950,35,ok,False,0,2,2,False,0.5,eliminar,media,menor evidencia que Bernardo I de Sajonia,,,revisar
+Q179284,Ana Comneno,padre,Q41600,Alejo I Comneno,1083,1048,35,ok,True,5,6,6,False,5.5,conservar,media,mayor puntaje (+1.3 sobre el siguiente),,,revisar
+Q179284,Ana Comneno,padre,Q3286784,Manuel Komnenos,1083,1040,43,ok,True,1,6,2,False,4.17,eliminar,media,menor evidencia que Alejo I Comneno,,,revisar
+Q2335581,Randver,padre,Q2335361,Radbart,680,650,30,ok,True,0,1,1,False,3.0,conservar,media,mayor puntaje (+2.5 sobre el siguiente),,,revisar
+Q2335581,Randver,padre,Q560751,Radbod,680,657,23,ok,False,0,1,3,False,0.5,eliminar,media,menor evidencia que Radbart,,,revisar
+Q248335,Dietrich I of Wettin,padre,Q2531480,Volkmar I,920,900,20,ok,False,0,0,4,False,0.5,revisar,manual,empate de evidencia (diferencia 0.0),,,revisar
+Q248335,Dietrich I of Wettin,padre,Q1182189,Dedo Ier,920,932,-12,dudosa,False,0,0,2,False,0.5,revisar,manual,empate de evidencia (diferencia 0.0),,,revisar
+Q265436,Ota,padre,Q1339011,Udó de Nèustria,874,900,-26,dudosa,False,0,0,3,False,0.5,revisar,manual,empate de evidencia (diferencia 0.5),,,revisar
+Q265436,Ota,padre,Q693896,Berenguer I de Nèustria,874,836,38,ok,False,0,0,1,False,0.0,revisar,manual,empate de evidencia (diferencia 0.5),,,revisar
+Q268004,Ida de Formbach-Ratelnberg,padre,Q10357576,Ratpoto IV de Cham,1060,1042,18,ok,False,2,4,3,False,1.83,conservar,media,mayor puntaje (+1.3 sobre el siguiente),,,revisar
+Q268004,Ida de Formbach-Ratelnberg,padre,Q110570732,Tiemo von Formbach,1060,1052,8,dudosa,False,0,4,2,False,0.5,eliminar,media,menor evidencia que Ratpoto IV de Cham,,,revisar
+Q2745448,Constanza de Borgoña,padre,Q346934,Roberto I de Borgoña,1046,1011,35,ok,True,2,5,3,False,4.83,revisar,manual,evidencia contradictoria: un candidato descartado tiene más apoyo de hermanos,,,revisar
+Q2745448,Constanza de Borgoña,padre,Q519641,Guillermo I de Borgoña,1046,1036,10,dudosa,False,3,5,7,False,2.5,revisar,manual,evidencia contradictoria: un candidato descartado tiene más apoyo de hermanos,,,revisar
+Q281833,Taira no Kiyomori,padre,Q60949,Emperador Shirakawa,1118,1053,65,ok,True,0,0,8,False,3.5,conservar,media,mayor puntaje (+3.0 sobre el siguiente),,,revisar
+Q281833,Taira no Kiyomori,padre,Q3083805,Taira no Tadamori,1118,1101,17,ok,False,0,0,5,False,0.5,eliminar,media,menor evidencia que Emperador Shirakawa,,,revisar
+Q2825475,Adémar de La Roche,padre,Q1386395,Hugh I of Lusignan,952,1000,-48,dudosa,False,0,0,2,False,0.5,revisar,manual,empate de evidencia (diferencia 0.0),,,revisar
+Q2825475,Adémar de La Roche,padre,Q17355610,Géraud de Limoges,952,927,25,ok,False,0,0,2,False,0.5,revisar,manual,empate de evidencia (diferencia 0.0),,,revisar
+Q2887133,Gunhilda de Wendia,padre,Q53435,Miecislao I,901,941,-40,dudosa,True,4,5,6,False,5.5,conservar,alta,mayor puntaje (+5.0 sobre el siguiente),,,conservar
+Q2887133,Gunhilda de Wendia,padre,Q2315967,Burislav,901,951,-50,dudosa,False,0,5,2,False,0.5,eliminar,alta,menor evidencia que Miecislao I,,,eliminar
+Q41618,León VI el Sabio,padre,Q41592,Basilio I,866,811,55,ok,True,1,1,3,False,5.5,conservar,alta,mayor puntaje (+5.5 sobre el siguiente),,,conservar
+Q41618,León VI el Sabio,padre,Q41622,Miguel III,866,840,26,ok,False,0,1,1,False,0.0,eliminar,alta,menor evidencia que Basilio I,,,eliminar
+Q41628,Juan II Comneno,padre,Q41600,Alejo I Comneno,1088,1048,40,ok,True,5,6,6,False,5.5,conservar,media,mayor puntaje (+1.3 sobre el siguiente),,,revisar
+Q41628,Juan II Comneno,padre,Q3286784,Manuel Komnenos,1088,1040,48,ok,True,1,6,2,False,4.17,eliminar,media,menor evidencia que Alejo I Comneno,,,revisar
+Q45515217,Li Yan,padre,Q6538710,Li Cong,725,705,20,ok,False,0,0,1,False,0.0,revisar,manual,empate de evidencia (diferencia 0.0),,,revisar
+Q45515217,Li Yan,padre,Q6539240,Li Ying,725,705,20,ok,False,0,0,1,False,0.0,revisar,manual,empate de evidencia (diferencia 0.0),,,revisar
+Q538614,Minamoto no Tsunenobu,padre,Q11564318,Minamoto Michikata,1016,968,48,ok,False,1,1,2,False,2.5,conservar,alta,mayor puntaje (+2.5 sobre el siguiente),,,conservar
+Q538614,Minamoto no Tsunenobu,padre,Q22127230,Minamoto no Munekata,1016,951,65,ok,False,0,1,1,False,0.0,eliminar,alta,menor evidencia que Minamoto Michikata,,,eliminar
+Q55443298,Ida of Arnsberg-Rietberg,padre,Q1539254,Godofredo III de Arnsberg,1250,1247,3,dudosa,False,0,1,2,False,0.5,revisar,manual,empate de evidencia (diferencia 0.5),,,revisar
+Q55443298,Ida of Arnsberg-Rietberg,padre,Q1539242,Gottfried II,1250,1157,93,dudosa,False,0,1,1,False,0.0,revisar,manual,empate de evidencia (diferencia 0.5),,,revisar
+Q55453455,Maria von Oettingen,padre,Q20500235,Frederick I of Oettingen,1299,1266,33,ok,True,0,1,2,False,3.5,conservar,media,mayor puntaje (+3.5 sobre el siguiente),,,revisar
+Q55453455,Maria von Oettingen,padre,Q94758802,Ludwig IV. Oettingen,1299,1240,59,ok,False,0,1,1,False,0.0,eliminar,media,menor evidencia que Frederick I of Oettingen,,,revisar
+Q55615148,John Comyn,padre,Q8007041,"William Comyn, Lord of Badenoch",1250,1200,50,ok,True,0,0,3,False,3.5,conservar,media,mayor puntaje (+3.0 sobre el siguiente),,,revisar
+Q55615148,John Comyn,padre,Q61495089,Richard Comyn,1250,1204,46,ok,False,0,0,2,False,0.5,eliminar,media,"menor evidencia que William Comyn, Lord of Badenoch",,,revisar
+Q5885872,Grjotgard Håkonsson,padre,Q31695,Håkon Grjotgardsson,850,875,-25,dudosa,True,1,3,2,False,4.17,conservar,alta,mayor puntaje (+4.2 sobre el siguiente),,,conservar
+Q5885872,Grjotgard Håkonsson,padre,Q131341003,Håkon Grjotgardsson 820-870,850,820,30,ok,False,0,3,1,False,0.0,eliminar,alta,menor evidencia que Håkon Grjotgardsson,,,eliminar
+Q60040644,Willa de Toscana,padre,Q2429013,Hubert de Toscana,950,922,28,ok,True,0,0,2,False,3.5,conservar,media,mayor puntaje (+3.5 sobre el siguiente),,,revisar
+Q60040644,Willa de Toscana,padre,Q7781537,Teobaldo II,950,920,30,ok,False,0,0,1,False,0.0,eliminar,media,menor evidencia que Hubert de Toscana,,,revisar
+Q699657,Li Sujie,padre,Q9703,Gao Zong,646,628,18,ok,True,11,11,12,False,5.5,conservar,alta,mayor puntaje (+5.0 sobre el siguiente),,,conservar
+Q699657,Li Sujie,padre,Q45422136,Li Yuanshan,646,677,-31,dudosa,False,0,11,2,False,0.5,eliminar,alta,menor evidencia que Gao Zong,,,eliminar
+Q922814,Catalina Kotromanić,padre,Q2750878,Vladislav Kotromanić,1336,1295,41,ok,True,2,2,4,False,5.5,conservar,alta,mayor puntaje (+5.0 sobre el siguiente),,,conservar
+Q922814,Catalina Kotromanić,padre,Q965795,Esteban II de Bosnia,1336,1292,44,ok,False,0,2,2,False,0.5,eliminar,alta,menor evidencia que Vladislav Kotromanić,,,eliminar
+Q11419381,Kashi-naishinnō,madre,Q106436058,In no Ue,1050,1008,42,ok,True,0,2,1,False,3.0,conservar,alta,mayor puntaje (+2.0 sobre el siguiente),,,conservar
+Q11419381,Kashi-naishinnō,madre,Q110579932,Minamoto no Nagatsune's daughter,1050,1008,42,ok,True,0,2,1,True,1.0,eliminar,alta,menor evidencia que In no Ue,,,eliminar
+Q11498376,Keishi-naishinnō,madre,Q11605125,Ki no Shizuko,850,824,26,ok,True,4,11,6,False,5.5,conservar,alta,mayor puntaje (+2.5 sobre el siguiente),,,conservar
+Q11498376,Keishi-naishinnō,madre,Q17230096,Fujiwara no Konshi/Imako,850,824,26,ok,True,0,11,1,False,3.0,eliminar,alta,menor evidencia que Ki no Shizuko,,,eliminar
+Q11501719,Noriko-naishinno,madre,Q11657998,Ano Renshi,1336,1295,41,ok,True,0,3,3,False,3.5,revisar,manual,empate de evidencia (diferencia 0.5),,,revisar
+Q11501719,Noriko-naishinno,madre,Q106687761,Kitabatake Akiko,1336,1318,18,ok,True,0,3,1,False,3.0,revisar,manual,empate de evidencia (diferencia 0.5),,,revisar
+Q125454,Richlind,madre,Q237510,Edith de Wessex,946,910,36,ok,True,0,0,3,False,3.5,revisar,manual,empate de evidencia (diferencia 0.0),,,revisar
+Q125454,Richlind,madre,Q25487193,Ida de Schwaben,946,930,16,ok,True,0,0,3,False,3.5,revisar,manual,empate de evidencia (diferencia 0.0),,,revisar
+Q1338775,Ratbold II de Provença,madre,Q2994830,Constance of Vienne,1000,920,80,dudosa,True,1,1,2,False,5.5,conservar,alta,mayor puntaje (+5.5 sobre el siguiente),,,conservar
+Q1338775,Ratbold II de Provença,madre,Q113987149,Emilde,1000,986,14,ok,False,0,1,1,False,0.0,eliminar,alta,menor evidencia que Constance of Vienne,,,eliminar
+Q1459919,Frederic II of Vianden,madre,Q76196133,Mathilde de Haute-Lorraine,1135,1110,25,ok,True,0,3,2,False,3.5,conservar,alta,mayor puntaje (+2.5 sobre el siguiente),,,conservar
+Q1459919,Frederic II of Vianden,madre,Q110562389,NN,1135,1111,24,ok,True,0,3,1,True,1.0,eliminar,alta,menor evidencia que Mathilde de Haute-Lorraine,,,eliminar
+Q15615597,Svyatopolk Mstislavich,madre,Q2616032,Cristina Ingesdotter de Suecia,1115,1100,15,ok,True,5,11,7,False,5.5,conservar,media,mayor puntaje (+1.3 sobre el siguiente),,,revisar
+Q15615597,Svyatopolk Mstislavich,madre,Q2241510,"Riquilda de Polonia, reina de Suecia",1115,1116,-1,imposible,True,1,11,5,False,4.17,eliminar,media,menor evidencia que Cristina Ingesdotter de Suecia,,,revisar
+Q15927754,Zhao Kai,madre,Q8251757,Wang Shi,1101,1081,20,ok,True,6,68,7,False,5.5,conservar,alta,mayor puntaje (+2.0 sobre el siguiente),,,conservar
+Q15927754,Zhao Kai,madre,Q19653851,Q19653851,1101,1080,21,ok,True,3,68,4,True,3.5,eliminar,alta,menor evidencia que Wang Shi,,,eliminar
+Q178007,Federico I de Lorena,madre,Q60650591,Bertha,1143,1123,20,ok,True,4,4,6,False,5.5,conservar,alta,mayor puntaje (+4.3 sobre el siguiente),,,conservar
+Q178007,Federico I de Lorena,madre,Q91003,Judith de Hohenstaufen,1143,1133,10,imposible,False,1,4,5,False,1.17,eliminar,alta,menor evidencia que Bertha,,,eliminar
+Q18614876,Marguerite of Roucy,madre,Q18606694,Alix de Roucy,1045,1016,29,ok,True,4,8,5,False,5.5,conservar,alta,mayor puntaje (+2.0 sobre el siguiente),,,conservar
+Q18614876,Marguerite of Roucy,madre,Q58674087,Adela de Roucy,1045,1035,10,dudosa,True,0,8,2,False,3.5,eliminar,alta,menor evidencia que Alix de Roucy,,,eliminar
+Q19654347,Sigurd Toresson,madre,Q141621807,NN- Kona,1005,955,50,ok,True,0,0,2,True,1.5,conservar,media,mayor puntaje (+1.5 sobre el siguiente),,,revisar
+Q19654347,Sigurd Toresson,madre,Q141621839,Ranveig Haraldsdatter,1005,984,21,ok,False,0,0,1,False,0.0,eliminar,media,menor evidencia que NN- Kona,,,revisar
+Q206123,Haroldo I de Noruega,madre,Q546716,Ragnhild Sigurdsdatter,851,900,-49,dudosa,True,0,0,1,False,3.0,revisar,manual,empate de evidencia (diferencia 0.0),,,revisar
+Q206123,Haroldo I de Noruega,madre,Q11996956,Ragnhild Haraldsdatter,851,823,28,ok,True,0,0,1,False,3.0,revisar,manual,empate de evidencia (diferencia 0.0),,,revisar
+Q213791,Erico I de Noruega,madre,Q973678,Gyda Eiriksdottir,895,852,43,ok,True,5,23,6,False,5.5,conservar,alta,mayor puntaje (+2.5 sobre el siguiente),,,conservar
+Q213791,Erico I de Noruega,madre,Q180263,Ragnhild Eiriksdatter,895,859,36,ok,True,0,23,1,False,3.0,eliminar,alta,menor evidencia que Gyda Eiriksdottir,,,eliminar
+Q22126741,Minamoto no Arikata,madre,Q106399433,Fujiwara no Tsunesue's daughter,1070,1040,30,ok,True,0,0,1,True,1.0,revisar,manual,todos los candidatos son placeholders,,,revisar
+Q22126741,Minamoto no Arikata,madre,Q110582063,Minamoto no Yorimitsu's daughter (Minamoto no Masanaga's wife),1070,1040,30,ok,True,0,0,1,True,1.0,revisar,manual,todos los candidatos son placeholders,,,revisar
+Q22126741,Minamoto no Arikata,madre,Q110582515,Fujiwara no Yoshisue's daughter (wife of Minamoto no Masanaga),1070,1040,30,ok,True,0,0,1,True,1.0,revisar,manual,todos los candidatos son placeholders,,,revisar
+Q225212,Harald III de Dinamarca,madre,Q141610262,n,1041,1017,24,ok,True,4,10,5,True,3.5,revisar,manual,empate de evidencia (diferencia 0.5),,,revisar
+Q225212,Harald III de Dinamarca,madre,Q141611136,Tora Torbergsdatter,1041,1018,23,ok,True,0,10,1,False,3.0,revisar,manual,empate de evidencia (diferencia 0.5),,,revisar
+Q225212,Harald III de Dinamarca,madre,Q141623090,wife of Svend Estridsen,1041,1016,25,ok,True,0,10,1,True,1.0,revisar,manual,empate de evidencia (diferencia 0.5),,,revisar
+Q2535985,Sigtrygg Silkbeard,madre,Q3111071,Gormflaith ingen Murchada,970,960,10,imposible,True,1,1,2,False,5.5,conservar,alta,mayor puntaje (+4.5 sobre el siguiente),,,conservar
+Q2535985,Sigtrygg Silkbeard,madre,Q75382754,unknown daughter of Scotland,970,971,-1,dudosa,True,0,1,1,True,1.0,eliminar,alta,menor evidencia que Gormflaith ingen Murchada,,,eliminar
+Q2746341,Elfrida,madre,Q141628453,Wulfthryth,940,904,36,ok,True,0,3,1,False,3.0,revisar,manual,evidencia contradictoria: un candidato descartado tiene más apoyo de hermanos,,,revisar
+Q2746341,Elfrida,madre,Q242670,Ethelswitha Mucel,940,852,88,imposible,False,2,3,6,False,1.83,revisar,manual,evidencia contradictoria: un candidato descartado tiene más apoyo de hermanos,,,revisar
+Q2826477,"Ágata, esposa de Eduardo el Exiliado",madre,Q2332287,Ingegerd Olofsdotter,1100,1001,99,dudosa,False,0,0,10,False,0.5,revisar,manual,empate de evidencia (diferencia 0.0),,,revisar
+Q2826477,"Ágata, esposa de Eduardo el Exiliado",madre,Q269619,Richeza of Lotharingia,1100,995,105,dudosa,False,0,0,4,False,0.5,revisar,manual,empate de evidencia (diferencia 0.0),,,revisar
+Q2826477,"Ágata, esposa de Eduardo el Exiliado",madre,Q15434092,Gertrud die Ältere von Braunschweig,1100,1010,90,dudosa,False,0,0,4,False,0.5,revisar,manual,empate de evidencia (diferencia 0.0),,,revisar
+Q2826477,"Ágata, esposa de Eduardo el Exiliado",madre,Q232039,Gisela de Baviera,1100,985,115,dudosa,False,0,0,2,False,0.5,revisar,manual,empate de evidencia (diferencia 0.0),,,revisar
+Q2827027,Inés de Garlande,madre,Q2929504,Béatrice de Montlhéry,1112,1074,38,ok,True,0,0,1,False,3.0,conservar,alta,mayor puntaje (+2.0 sobre el siguiente),,,conservar
+Q2827027,Inés de Garlande,madre,Q141621780,daughter of Elizabeth de Corbeil,1112,1081,31,ok,True,0,0,1,True,1.0,eliminar,alta,menor evidencia que Béatrice de Montlhéry,,,eliminar
+Q3049450,Einar Sigurdsson,madre,Q16726148,Olith,989,966,23,ok,True,2,2,3,False,5.5,conservar,alta,mayor puntaje (+5.0 sobre el siguiente),,,conservar
+Q3049450,Einar Sigurdsson,madre,Q75240461,Donada of Alba,989,969,20,ok,False,0,2,2,False,0.5,eliminar,alta,menor evidencia que Olith,,,eliminar
+Q310435,Luis III el Ciego,madre,Q273602,Ermengarda de Italia,880,855,25,ok,True,1,2,2,False,4.5,conservar,media,mayor puntaje (+1.5 sobre el siguiente),,,revisar
+Q310435,Luis III el Ciego,madre,Q100327211,Ermengarde of Provence,880,850,30,ok,True,0,2,1,False,3.0,eliminar,media,menor evidencia que Ermengarda de Italia,,,revisar
+Q313005,Sigurd I de Noruega,madre,Q122931811,Sigrid Saxesdatter,1090,1069,21,ok,True,2,7,3,False,4.83,conservar,media,mayor puntaje (+1.8 sobre el siguiente),,,revisar
+Q313005,Sigurd I de Noruega,madre,Q122931448,Thora,1090,1068,22,ok,True,0,7,1,False,3.0,eliminar,media,menor evidencia que Sigrid Saxesdatter,,,revisar
+Q3172721,Jean I de Montmorency,madre,Q75887069,Jeanne de Levis,1284,1254,30,ok,True,0,0,1,False,3.0,revisar,manual,empate de evidencia (diferencia 0.0),,,revisar
+Q3172721,Jean I de Montmorency,madre,Q102819417,Marie de Dreux,1284,1254,30,ok,True,0,0,1,False,3.0,revisar,manual,empate de evidencia (diferencia 0.0),,,revisar
+Q3301,Carlos Martel,madre,Q465882,Alpaida,688,654,34,ok,True,1,3,2,False,4.17,conservar,alta,queda como entidad principal del duplicado,,,conservar
+Q3301,Carlos Martel,madre,Q141534132,Alpaïde,688,652,36,ok,True,0,3,1,False,3.0,fusionar,alta,mismo nombre que Alpaida (Q465882): duplicado,Q465882,,fusionar
+Q348293,"Adelolf, Count of Boulogne",madre,Q2746341,Elfrida,891,940,-49,imposible,True,1,1,3,False,5.5,revisar,manual,empate de evidencia (diferencia 0.0),,,revisar
+Q348293,"Adelolf, Count of Boulogne",madre,Q1470395,Elfrida de Wessex,891,877,14,ok,True,1,1,2,False,5.5,revisar,manual,empate de evidencia (diferencia 0.0),,,revisar
+Q3494397,Ingerid of Denmark,madre,Q141610262,n,1001,1017,-16,dudosa,True,4,8,5,True,3.5,revisar,manual,empate de evidencia (diferencia 0.5),,,revisar
+Q3494397,Ingerid of Denmark,madre,Q141610288,Rannveig Tordsdatter Denmark Jr.,1001,996,5,dudosa,True,0,8,1,False,3.0,revisar,manual,empate de evidencia (diferencia 0.5),,,revisar
+Q350213,Magnus V de Noruega,madre,Q642075,Cristina Sigurdsdatter,1156,1125,31,ok,True,0,2,1,False,3.0,revisar,manual,empate de evidencia (diferencia 0.0),,,revisar
+Q350213,Magnus V de Noruega,madre,Q141610376,Katarína Knudsdatter,1156,1126,30,ok,True,0,2,1,False,3.0,revisar,manual,empate de evidencia (diferencia 0.0),,,revisar
+Q41838,Miguel V,madre,Q41659,Zoe,1015,978,37,ok,False,0,0,1,False,0.0,revisar,manual,empate de evidencia (diferencia 0.0),,,revisar
+Q41838,Miguel V,madre,Q41666,Teodora Porfirogeneta,1015,984,31,ok,False,0,0,1,False,0.0,revisar,manual,empate de evidencia (diferencia 0.0),,,revisar
+Q44191955,Ludwig V von Oettingen,madre,Q140940621,Adelheid von Hirschberg,1240,1206,34,ok,True,0,0,1,False,3.0,conservar,media,mayor puntaje (+1.5 sobre el siguiente),,,revisar
+Q44191955,Ludwig V von Oettingen,madre,Q116030494,NN von Burgau,1240,1208,32,ok,True,0,0,2,True,1.5,eliminar,media,menor evidencia que Adelheid von Hirschberg,,,revisar
+Q453739,Ansegisel,madre,Q3033649,Doda de Metz,610,582,28,ok,True,0,1,1,False,3.0,revisar,manual,empate de evidencia (diferencia 0.0),,,revisar
+Q453739,Ansegisel,madre,Q141523778,Dode Clotilde De Schelde,610,582,28,ok,True,0,1,1,False,3.0,revisar,manual,empate de evidencia (diferencia 0.0),,,revisar
+Q469638,Arnulfo I de Flandes,madre,Q2746341,Elfrida,889,940,-51,imposible,True,1,1,3,False,5.5,revisar,manual,empate de evidencia (diferencia 0.0),,,revisar
+Q469638,Arnulfo I de Flandes,madre,Q1470395,Elfrida de Wessex,889,877,12,ok,True,1,1,2,False,5.5,revisar,manual,empate de evidencia (diferencia 0.0),,,revisar
+Q4706028,"Alan, Earl of Menteith",madre,Q68104787,Matilda of Strathearn,1300,1248,52,ok,True,1,2,2,False,4.5,conservar,media,mayor puntaje (+1.5 sobre el siguiente),,,revisar
+Q4706028,"Alan, Earl of Menteith",madre,Q75243107,Maud de Arnot,1300,1261,39,ok,True,0,2,1,False,3.0,eliminar,media,menor evidencia que Matilda of Strathearn,,,revisar
+Q5163486,"Constance, Duchess of Wodzisław",madre,Q5410344,Euphemia of Greater Poland,1255,1230,25,ok,True,4,4,5,False,5.5,conservar,alta,mayor puntaje (+2.0 sobre el siguiente),,,conservar
+Q5163486,"Constance, Duchess of Wodzisław",madre,Q3495473,"Anna of Masovia, Duchess of Racibórz",1255,1270,-15,imposible,True,0,4,4,False,3.5,eliminar,alta,menor evidencia que Euphemia of Greater Poland,,,eliminar
+Q54914124,"Ulrich II, Count of Helfenstein",madre,Q54914117,Ana de Henneberg,1224,1209,15,ok,True,0,0,1,False,3.0,conservar,alta,mayor puntaje (+2.0 sobre el siguiente),,,conservar
+Q54914124,"Ulrich II, Count of Helfenstein",madre,Q110562308,(NN von Ravenstein),1224,1184,40,ok,True,0,0,1,True,1.0,eliminar,alta,menor evidencia que Ana de Henneberg,,,eliminar
+Q55830004,Maria de Neurenburg,madre,Q75289133,Elena de Sajonia,1249,1247,2,imposible,True,2,4,4,False,4.83,revisar,manual,empate de evidencia (diferencia 0.7),,,revisar
+Q55830004,Maria de Neurenburg,madre,Q55445613,Elisabeth of Andechs-Merania,1249,1224,25,ok,True,1,4,2,False,4.17,revisar,manual,empate de evidencia (diferencia 0.7),,,revisar
+Q55830018,Udelhild von Zollern-Nürnberg,madre,Q75289133,Elena de Sajonia,1260,1247,13,ok,True,3,5,4,False,5.5,conservar,media,mayor puntaje (+1.3 sobre el siguiente),,,revisar
+Q55830018,Udelhild von Zollern-Nürnberg,madre,Q55445613,Elisabeth of Andechs-Merania,1260,1224,36,ok,True,1,5,2,False,4.17,eliminar,media,menor evidencia que Elena de Sajonia,,,revisar
+Q574544,Ana Terter,madre,Q11769200,María Terter,1300,1278,22,ok,True,1,2,2,False,4.5,conservar,media,mayor puntaje (+1.5 sobre el siguiente),,,revisar
+Q574544,Ana Terter,madre,Q574542,Kira María Asen,1300,1300,0,dudosa,True,0,2,1,False,3.0,eliminar,media,menor evidencia que María Terter,,,revisar
+Q663023,Simón II de Lorena,madre,Q60650591,Bertha,1140,1123,17,ok,True,4,4,6,False,5.5,conservar,alta,mayor puntaje (+4.3 sobre el siguiente),,,conservar
+Q663023,Simón II de Lorena,madre,Q91003,Judith de Hohenstaufen,1140,1133,7,imposible,False,1,4,5,False,1.17,eliminar,alta,menor evidencia que Bertha,,,eliminar
+Q712916,Li Xian,madre,Q9738,Wu Zetian,653,624,29,ok,True,5,11,6,False,5.5,conservar,alta,mayor puntaje (+5.5 sobre el siguiente),,,conservar
+Q712916,Li Xian,madre,Q11125050,Wu Shun,653,624,29,ok,False,0,11,1,False,0.0,eliminar,alta,menor evidencia que Wu Zetian,,,eliminar
+Q76078362,Burkhard XII Burggrave von Magdeburg,madre,Q110613417,Agnes,1400,1336,64,dudosa,True,3,3,4,False,5.5,conservar,alta,mayor puntaje (+4.5 sobre el siguiente),,,conservar
+Q76078362,Burkhard XII Burggrave von Magdeburg,madre,Q110613348,NN,1400,1386,14,ok,True,0,3,1,True,1.0,eliminar,alta,menor evidencia que Agnes,,,eliminar
+Q8353415,Dag Haraldsson,madre,Q5653357,Åshild,906,864,42,ok,True,2,22,3,False,4.83,conservar,alta,queda como entidad principal del duplicado,,,conservar
+Q8353415,Dag Haraldsson,madre,Q141621909,Åshild Ringsdotter,906,864,42,ok,True,0,22,1,False,3.0,fusionar,alta,mismo nombre que Åshild (Q5653357): duplicado,Q5653357,,fusionar
+Q91003,Judith de Hohenstaufen,madre,Q2039212,Judith de Baviera y Welf,1133,1100,33,ok,True,2,4,3,False,4.83,revisar,manual,empate de evidencia (diferencia 0.7),,,revisar
+Q91003,Judith de Hohenstaufen,madre,Q17353089,Inés de Saarbrücken,1133,1115,18,ok,True,1,4,2,False,4.17,revisar,manual,empate de evidencia (diferencia 0.7),,,revisar

@@ -1,0 +1,86 @@
+tipo,severidad,Id,Label,detalle
+conflicto de género,alta,Q103560123,Aelfthryth,aparece como padre y como madre
+conflicto de género,alta,Q5561986,"Gille Brigte, Earl of Strathearn",aparece como padre y como madre
+progenitor+conyuge,alta,Q106189066,Fujii no Fujiko,con Abo-shinnō (Q11657231)
+progenitor+conyuge,alta,Q113987149,Emilde,con Ratbold II de Provença (Q1338775)
+progenitor+conyuge,alta,Q16558507,Garsenda di Guascogna,con Ramon (IV) de Tolosa (Q2222373)
+progenitor+hermano,alta,Q763220,Berenguer de Tolosa,con Everardo del Friul (Q919247)
+progenitor+hermano,alta,Q2680280,William IV of Auvergne,con Guy I of Auvergne (Q2884086)
+progenitor+hermano,alta,Q141610350,Ingegerd,con Ingrid Ragnvaldsdotter (Q438469)
+progenitor+hermano,alta,Q110613346,Berthold III von Magdeburg,con Burkhard XII Burggrave von Magdeburg (Q76078362)
+progenitor+hermano,alta,Q695426,"Arnold II, Count of Cleves","con Dietrich II, Count of Cleves (Q832907)"
+progenitor+hermano,alta,Q480572,Bolesław of Oleśnica,con Enrique III de Głogów (Q573444)
+progenitor+hermano,alta,Q18614876,Marguerite of Roucy,con Adela de Roucy (Q58674087)
+progenitor+hermano,alta,Q70895877,Mathilde of Limburg,con Waleran III de Limburgo (Q83660)
+progenitor+hermano,alta,Q24661994,Anne of Nassau-Wiesbaden-Idstein,"con John II, Count of Nassau-Wiesbaden-Idstein (Q2518245)"
+progenitor+hermano,alta,Q1597745,Heinrich I. von Schwalenberg,con Konrad II. von Sternberg (Q1782116)
+progenitor+hermano,alta,Q5163486,"Constance, Duchess of Wodzisław",con Przemysław of Racibórz (Q668223)
+progenitor+hermano,alta,Q234782,Sibila de Jerusalén,con Amalarico I de Jerusalén (Q311808)
+grado atípico,baja,Q7419,Emperador Yangdi,"hijos=4, cónyuges=14, hermanos=9"
+grado atípico,baja,Q9458,Mahoma,"hijos=2, cónyuges=12, hermanos=0"
+grado atípico,baja,Q9700,Gaozu de Tang,"hijos=23, cónyuges=11, hermanos=4"
+grado atípico,baja,Q9701,Li Shimin,"hijos=26, cónyuges=9, hermanos=40"
+grado atípico,baja,Q9746,Xuanzong de Tang,"hijos=29, cónyuges=11, hermanos=16"
+grado atípico,baja,Q9749,Su Zong,"hijos=16, cónyuges=3, hermanos=53"
+grado atípico,baja,Q3044,Carlomagno,"hijos=13, cónyuges=7, hermanos=5"
+grado atípico,baja,Q314846,Emperador Kanmu,"hijos=15, cónyuges=24, hermanos=6"
+grado atípico,baja,Q9753,Dai Zong,"hijos=16, cónyuges=5, hermanos=20"
+grado atípico,baja,Q316654,Emperador Saga,"hijos=5, cónyuges=20, hermanos=20"
+grado atípico,baja,Q131002,Harún al-Rashid,"hijos=3, cónyuges=11, hermanos=6"
+grado atípico,baja,Q9760,Shun Zong,"hijos=20, cónyuges=3, hermanos=18"
+grado atípico,baja,Q9761,Xian Zong,"hijos=20, cónyuges=3, hermanos=36"
+grado atípico,baja,Q349271,Ninmyō,"hijos=3, cónyuges=12, hermanos=18"
+grado atípico,baja,Q357225,Emperador Montoku,"hijos=11, cónyuges=14, hermanos=8"
+grado atípico,baja,Q329753,Emperador Daigo,"hijos=14, cónyuges=14, hermanos=6"
+grado atípico,baja,Q349243,Emperador Seiwa,"hijos=2, cónyuges=19, hermanos=11"
+grado atípico,baja,Q206123,Haroldo I de Noruega,"hijos=21, cónyuges=8, hermanos=0"
+grado atípico,baja,Q374015,Emperador Murakami,"hijos=7, cónyuges=11, hermanos=21"
+grado atípico,baja,Q5000,Liao Shengzong,"hijos=3, cónyuges=13, hermanos=8"
+grado atípico,baja,Q7477,Song Renzong,"hijos=16, cónyuges=9, hermanos=4"
+grado atípico,baja,Q7483,Song Shenzong,"hijos=22, cónyuges=7, hermanos=7"
+grado atípico,baja,Q7486,Song Huizong,"hijos=68, cónyuges=9, hermanos=23"
+grado atípico,baja,Q10887681,Baoshu Diji,"hijos=0, cónyuges=0, hermanos=69"
+grado atípico,baja,Q316115,Alfonso IX de León,"hijos=16, cónyuges=2, hermanos=3"
+grado atípico,baja,Q349259,Emperador Go-Saga,"hijos=5, cónyuges=14, hermanos=3"
+grado atípico,baja,Q360972,Emperador Kameyama,"hijos=1, cónyuges=11, hermanos=8"
+grado atípico,baja,Q313942,Emperador Go-Daigo,"hijos=7, cónyuges=20, hermanos=4"
+grado atípico,baja,Q718227,Chen Tanxu,"hijos=19, cónyuges=0, hermanos=0"
+varios madres,corregida,Q11419381,Kashi-naishinnō,[alta] In no Ue -> conservar; Minamoto no Nagatsune's daughter -> eliminar
+varios madres,corregida,Q11498376,Keishi-naishinnō,[alta] Ki no Shizuko -> conservar; Fujiwara no Konshi/Imako -> eliminar
+varios madres,corregida,Q1338775,Ratbold II de Provença,[alta] Constance of Vienne -> conservar; Emilde -> eliminar
+varios madres,corregida,Q1459919,Frederic II of Vianden,[alta] Mathilde de Haute-Lorraine -> conservar; NN -> eliminar
+varios madres,corregida,Q15927754,Zhao Kai,[alta] Wang Shi -> conservar; Q19653851 -> eliminar
+varios madres,corregida,Q178007,Federico I de Lorena,[alta] Bertha -> conservar; Judith de Hohenstaufen -> eliminar
+varios madres,corregida,Q18614876,Marguerite of Roucy,[alta] Alix de Roucy -> conservar; Adela de Roucy -> eliminar
+varios madres,corregida,Q213791,Erico I de Noruega,[alta] Gyda Eiriksdottir -> conservar; Ragnhild Eiriksdatter -> eliminar
+varios madres,corregida,Q2535985,Sigtrygg Silkbeard,[alta] Gormflaith ingen Murchada -> conservar; unknown daughter of Scotland -> eliminar
+varios madres,corregida,Q2827027,Inés de Garlande,[alta] Béatrice de Montlhéry -> conservar; daughter of Elizabeth de Corbeil -> eliminar
+varios madres,corregida,Q3049450,Einar Sigurdsson,[alta] Olith -> conservar; Donada of Alba -> eliminar
+varios madres,corregida,Q3301,Carlos Martel,[alta] Alpaida -> conservar; Alpaïde -> fusionar
+varios madres,corregida,Q5163486,"Constance, Duchess of Wodzisław","[alta] Euphemia of Greater Poland -> conservar; Anna of Masovia, Duchess of Racibórz -> eliminar"
+varios madres,corregida,Q54914124,"Ulrich II, Count of Helfenstein",[alta] Ana de Henneberg -> conservar; (NN von Ravenstein) -> eliminar
+varios madres,corregida,Q663023,Simón II de Lorena,[alta] Bertha -> conservar; Judith de Hohenstaufen -> eliminar
+varios madres,corregida,Q712916,Li Xian,[alta] Wu Zetian -> conservar; Wu Shun -> eliminar
+varios madres,corregida,Q76078362,Burkhard XII Burggrave von Magdeburg,[alta] Agnes -> conservar; NN -> eliminar
+varios madres,corregida,Q8353415,Dag Haraldsson,[alta] Åshild -> conservar; Åshild Ringsdotter -> fusionar
+varios padres,corregida,Q11095388,Li Sui,"salto generacional eliminado: Su Zong, Dai Zong"
+varios padres,corregida,Q11501719,Noriko-naishinno,"salto generacional eliminado: Emperador Go-Daigo, Emperador Go-Murakami"
+varios padres,corregida,Q125454,Richlind,"salto generacional eliminado: Otón I del Sacro Imperio Romano Germánico, Liudolfo de Suabia"
+varios padres,corregida,Q1330397,Elisabeth von Bayern,"salto generacional eliminado: Esteban II de Baviera, Federico de Baviera"
+varios padres,corregida,Q1400153,Ricardo I Orsini,"salto generacional eliminado: Mateo II Orsini, Mateo I Orsini"
+varios padres,corregida,Q1565649,Gregorio I de Tusculum,"salto generacional eliminado: Teofilacto I, Alberico II de Spoleto"
+varios padres,corregida,Q1654195,Volkmar II,"salto generacional eliminado: Volkmar I, Friedrich III von Harzgau"
+varios padres,corregida,Q2680280,William IV of Auvergne,"salto generacional eliminado: Guy I of Auvergne, Robert II de Clarmont"
+varios padres,corregida,Q346380,Ada de Holanda,"salto generacional eliminado: Florencio III de Holanda, Teodorico VII de Holanda"
+varios padres,corregida,Q349287,Emperador Sutoku,"salto generacional eliminado: Emperador Shirakawa, Emperador Toba"
+varios padres,corregida,Q44191432,Friedrich III von Harzgau,"salto generacional eliminado: Volkmar I, Count Frederick II Von Harzgau"
+varios padres,corregida,Q469633,Balduino VII de Flandes,"salto generacional eliminado: Roberto II de Flandes, Balduino V de Flandes"
+varios padres,corregida,Q5163486,"Constance, Duchess of Wodzisław","salto generacional eliminado: Władysław Opolski, Przemysław of Racibórz"
+varios padres,corregida,Q76078362,Burkhard XII Burggrave von Magdeburg,"salto generacional eliminado: Berthold III von Magdeburg, Berthold II, Burggraf von Magdeburg, Graf von Hardegg"
+varios padres,corregida,Q919247,Everardo del Friul,"salto generacional eliminado: Berenguer de Tolosa, Unruoch II de Friuli"
+varios padres,corregida,Q2887133,Gunhilda de Wendia,[alta] Miecislao I -> conservar; Burislav -> eliminar
+varios padres,corregida,Q41618,León VI el Sabio,[alta] Basilio I -> conservar; Miguel III -> eliminar
+varios padres,corregida,Q538614,Minamoto no Tsunenobu,[alta] Minamoto Michikata -> conservar; Minamoto no Munekata -> eliminar
+varios padres,corregida,Q5885872,Grjotgard Håkonsson,[alta] Håkon Grjotgardsson -> conservar; Håkon Grjotgardsson 820-870 -> eliminar
+varios padres,corregida,Q699657,Li Sujie,[alta] Gao Zong -> conservar; Li Yuanshan -> eliminar
+varios padres,corregida,Q922814,Catalina Kotromanić,[alta] Vladislav Kotromanić -> conservar; Esteban II de Bosnia -> eliminar
